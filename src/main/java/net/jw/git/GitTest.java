@@ -10,6 +10,6 @@ public class GitTest {
         System.out.println("git hello dev - a ");
         System.out.println("git hello dev - b ");
         System.out.println("gittest push ");
-        System.out.println("gittest push2 ");
+        System.out.println("gittest push3 ");
     }
 }
