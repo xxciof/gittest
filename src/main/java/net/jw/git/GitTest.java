@@ -11,5 +11,7 @@ public class GitTest {
         System.out.println("git hello dev - b ");
         System.out.println("gittest push ");
         System.out.println("gittest push3 ");
+        
+        System.out.println("gittest push 20220727 ");
     }
 }
