@@ -14,6 +14,7 @@ public class GitTest {
         
         System.out.println("gittest push 20220727 ");
         System.out.println("gittest push 20220727B ");
+        System.out.println("gittest push 20220727C ");
         System.out.println("gittest push 20220727D ");
     }
 }
